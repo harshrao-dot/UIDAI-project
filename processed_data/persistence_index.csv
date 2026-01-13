@@ -1,0 +1,1110 @@
+state,district,persistence_index,total_months
+100000,100000,0.75,4
+Andaman & Nicobar Islands,Andamans,0.2222222222222222,9
+Andaman & Nicobar Islands,Nicobars,0.0,2
+Andaman & Nicobar Islands,South Andaman,0.25,4
+Andaman and Nicobar Islands,Nicobar,0.2222222222222222,9
+Andaman and Nicobar Islands,North And Middle Andaman,0.4444444444444444,9
+Andaman and Nicobar Islands,South Andaman,0.2222222222222222,9
+Andhra Pradesh,Adilabad,0.3333333333333333,9
+Andhra Pradesh,Alluri Sitharama Raju,0.1111111111111111,9
+Andhra Pradesh,Anakapalli,0.3333333333333333,9
+Andhra Pradesh,Anantapur,0.1111111111111111,9
+Andhra Pradesh,Ananthapur,0.1111111111111111,9
+Andhra Pradesh,Ananthapuramu,0.1111111111111111,9
+Andhra Pradesh,Annamayya,0.3333333333333333,9
+Andhra Pradesh,Bapatla,0.3333333333333333,9
+Andhra Pradesh,Chittoor,0.2222222222222222,9
+Andhra Pradesh,Cuddapah,0.2222222222222222,9
+Andhra Pradesh,Dr. B. R. Ambedkar Konaseema,0.3333333333333333,9
+Andhra Pradesh,East Godavari,0.3333333333333333,9
+Andhra Pradesh,Eluru,0.2222222222222222,9
+Andhra Pradesh,Guntur,0.2222222222222222,9
+Andhra Pradesh,Hyderabad,0.2222222222222222,9
+Andhra Pradesh,K.V.Rangareddy,0.2,5
+Andhra Pradesh,K.v. Rangareddy,0.3333333333333333,6
+Andhra Pradesh,Kakinada,0.3333333333333333,9
+Andhra Pradesh,Karim Nagar,0.2222222222222222,9
+Andhra Pradesh,Karimnagar,0.2222222222222222,9
+Andhra Pradesh,Khammam,0.3333333333333333,9
+Andhra Pradesh,Krishna,0.3333333333333333,9
+Andhra Pradesh,Kurnool,0.1111111111111111,9
+Andhra Pradesh,Mahabub Nagar,0.2222222222222222,9
+Andhra Pradesh,Mahabubnagar,0.5,4
+Andhra Pradesh,Mahbubnagar,0.2222222222222222,9
+Andhra Pradesh,Medak,0.1111111111111111,9
+Andhra Pradesh,N. T. R,0.3333333333333333,9
+Andhra Pradesh,Nalgonda,0.3333333333333333,9
+Andhra Pradesh,Nandyal,0.1111111111111111,9
+Andhra Pradesh,Nellore,0.1111111111111111,9
+Andhra Pradesh,Nizamabad,0.2222222222222222,9
+Andhra Pradesh,Palnadu,0.3333333333333333,9
+Andhra Pradesh,Parvathipuram Manyam,0.2222222222222222,9
+Andhra Pradesh,Prakasam,0.3333333333333333,9
+Andhra Pradesh,Rangareddi,0.2222222222222222,9
+Andhra Pradesh,Spsr Nellore,0.0,3
+Andhra Pradesh,Sri Potti Sriramulu Nellore,0.4444444444444444,9
+Andhra Pradesh,Sri Sathya Sai,0.3333333333333333,9
+Andhra Pradesh,Srikakulam,0.2222222222222222,9
+Andhra Pradesh,Tirupati,0.2222222222222222,9
+Andhra Pradesh,Visakhapatanam,0.0,1
+Andhra Pradesh,Visakhapatnam,0.2222222222222222,9
+Andhra Pradesh,Vizianagaram,0.3333333333333333,9
+Andhra Pradesh,Warangal,0.2222222222222222,9
+Andhra Pradesh,West Godavari,0.3333333333333333,9
+Andhra Pradesh,Y. S. R,0.2222222222222222,9
+Arunachal Pradesh,Anjaw,0.2222222222222222,9
+Arunachal Pradesh,Changlang,0.1111111111111111,9
+Arunachal Pradesh,Dibang Valley,0.1111111111111111,9
+Arunachal Pradesh,East Kameng,0.1111111111111111,9
+Arunachal Pradesh,East Siang,0.1111111111111111,9
+Arunachal Pradesh,Kamle,0.16666666666666666,6
+Arunachal Pradesh,Kra Daadi,0.1111111111111111,9
+Arunachal Pradesh,Kurung Kumey,0.1111111111111111,9
+Arunachal Pradesh,Leparada,0.25,4
+Arunachal Pradesh,Lohit,0.2222222222222222,9
+Arunachal Pradesh,Longding,0.1111111111111111,9
+Arunachal Pradesh,Lower Dibang Valley,0.1111111111111111,9
+Arunachal Pradesh,Lower Siang,0.16666666666666666,6
+Arunachal Pradesh,Lower Subansiri,0.0,9
+Arunachal Pradesh,Namsai,0.2222222222222222,9
+Arunachal Pradesh,Pakke Kessang,0.2,5
+Arunachal Pradesh,Papum Pare,0.1111111111111111,9
+Arunachal Pradesh,Shi-yomi,0.1111111111111111,9
+Arunachal Pradesh,Siang,0.2222222222222222,9
+Arunachal Pradesh,Tawang,0.2222222222222222,9
+Arunachal Pradesh,Tirap,0.1111111111111111,9
+Arunachal Pradesh,Upper Siang,0.2222222222222222,9
+Arunachal Pradesh,Upper Subansiri,0.1111111111111111,9
+Arunachal Pradesh,West Kameng,0.2222222222222222,9
+Arunachal Pradesh,West Siang,0.1111111111111111,9
+Assam,Bajali,0.5,4
+Assam,Baksa,0.4444444444444444,9
+Assam,Barpeta,0.4444444444444444,9
+Assam,Biswanath,0.2222222222222222,9
+Assam,Bongaigaon,0.5555555555555556,9
+Assam,Cachar,0.4444444444444444,9
+Assam,Charaideo,0.1111111111111111,9
+Assam,Chirang,0.3333333333333333,9
+Assam,Darrang,0.3333333333333333,9
+Assam,Dhemaji,0.4444444444444444,9
+Assam,Dhubri,0.5555555555555556,9
+Assam,Dibrugarh,0.4444444444444444,9
+Assam,Dima Hasao,0.6666666666666666,6
+Assam,Goalpara,0.2222222222222222,9
+Assam,Golaghat,0.2222222222222222,9
+Assam,Hailakandi,0.3333333333333333,9
+Assam,Hojai,0.4444444444444444,9
+Assam,Jorhat,0.2222222222222222,9
+Assam,Kamrup,0.3333333333333333,9
+Assam,Kamrup Metro,0.3333333333333333,9
+Assam,Karbi Anglong,0.4444444444444444,9
+Assam,Karimganj,0.2222222222222222,9
+Assam,Kokrajhar,0.4444444444444444,9
+Assam,Lakhimpur,0.2222222222222222,9
+Assam,Majuli,0.1111111111111111,9
+Assam,Marigaon,0.4444444444444444,9
+Assam,Nagaon,0.5555555555555556,9
+Assam,Nalbari,0.2222222222222222,9
+Assam,North Cachar Hills,0.1111111111111111,9
+Assam,Sibsagar,0.2222222222222222,9
+Assam,Sivasagar,0.0,2
+Assam,Sonitpur,0.3333333333333333,9
+Assam,South Salmara Mankachar,0.2222222222222222,9
+Assam,Sribhumi,0.5,4
+Assam,Tamulpur District,0.25,4
+Assam,Tinsukia,0.2222222222222222,9
+Assam,Udalguri,0.3333333333333333,9
+Assam,West Karbi Anglong,0.4444444444444444,9
+Bihar,Araria,0.0,9
+Bihar,Arwal,0.1111111111111111,9
+Bihar,Aurangabad,0.1111111111111111,9
+Bihar,Aurangabad(BH),0.5,4
+Bihar,Aurangabad(bh),0.25,4
+Bihar,Banka,0.1111111111111111,9
+Bihar,Begusarai,0.1111111111111111,9
+Bihar,Bhabua,0.25,4
+Bihar,Bhagalpur,0.2222222222222222,9
+Bihar,Bhojpur,0.1111111111111111,9
+Bihar,Buxar,0.1111111111111111,9
+Bihar,Darbhanga,0.2222222222222222,9
+Bihar,East Champaran,0.1111111111111111,9
+Bihar,Gaya,0.1111111111111111,9
+Bihar,Gopalganj,0.1111111111111111,9
+Bihar,Jamui,0.1111111111111111,9
+Bihar,Jehanabad,0.1111111111111111,9
+Bihar,Kaimur (Bhabua),0.1111111111111111,9
+Bihar,Katihar,0.1111111111111111,9
+Bihar,Khagaria,0.2222222222222222,9
+Bihar,Kishanganj,0.1111111111111111,9
+Bihar,Lakhisarai,0.1111111111111111,9
+Bihar,Madhepura,0.0,9
+Bihar,Madhubani,0.2222222222222222,9
+Bihar,Monghyr,0.5,4
+Bihar,Munger,0.1111111111111111,9
+Bihar,Muzaffarpur,0.2222222222222222,9
+Bihar,Nalanda,0.1111111111111111,9
+Bihar,Nawada,0.1111111111111111,9
+Bihar,Pashchim Champaran,0.125,8
+Bihar,Patna,0.2222222222222222,9
+Bihar,Purba Champaran,0.25,4
+Bihar,Purbi Champaran,0.0,3
+Bihar,Purnea,0.1111111111111111,9
+Bihar,Purnia,0.1111111111111111,9
+Bihar,Rohtas,0.1111111111111111,9
+Bihar,Saharsa,0.1111111111111111,9
+Bihar,Samastipur,0.1111111111111111,9
+Bihar,Samstipur,0.25,4
+Bihar,Saran,0.1111111111111111,9
+Bihar,Sheikhpura,0.1111111111111111,9
+Bihar,Sheikpura,0.25,4
+Bihar,Sheohar,0.1111111111111111,9
+Bihar,Sitamarhi,0.2222222222222222,9
+Bihar,Siwan,0.1111111111111111,9
+Bihar,Supaul,0.0,9
+Bihar,Vaishali,0.1111111111111111,9
+Bihar,West Champaran,0.1111111111111111,9
+Chandigarh,Chandigarh,0.3333333333333333,9
+Chandigarh,Mohali,0.0,3
+Chandigarh,Rupnagar,0.25,4
+Chhatisgarh,Raipur,0.0,3
+Chhattisgarh,Balod,0.3333333333333333,9
+Chhattisgarh,Baloda Bazar,0.4444444444444444,9
+Chhattisgarh,Balrampur,0.2222222222222222,9
+Chhattisgarh,Bastar,0.2222222222222222,9
+Chhattisgarh,Bemetara,0.2222222222222222,9
+Chhattisgarh,Bijapur,0.5555555555555556,9
+Chhattisgarh,Bilaspur,0.2222222222222222,9
+Chhattisgarh,Dakshin Bastar Dantewada,0.2222222222222222,9
+Chhattisgarh,Dantewada,0.1111111111111111,9
+Chhattisgarh,Dhamtari,0.3333333333333333,9
+Chhattisgarh,Durg,0.5555555555555556,9
+Chhattisgarh,Gariyaband,0.2222222222222222,9
+Chhattisgarh,Gaurela-pendra-marwahi,0.2222222222222222,9
+Chhattisgarh,Gaurella Pendra Marwahi,0.0,2
+Chhattisgarh,Janjgir - Champa,0.5,4
+Chhattisgarh,Janjgir Champa,0.5,4
+Chhattisgarh,Janjgir-champa,0.4444444444444444,9
+Chhattisgarh,Jashpur,0.1111111111111111,9
+Chhattisgarh,Kabeerdham,0.3333333333333333,9
+Chhattisgarh,Kanker,0.2222222222222222,9
+Chhattisgarh,Kawardha,0.2222222222222222,9
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,0.3333333333333333,6
+Chhattisgarh,Kondagaon,0.2222222222222222,9
+Chhattisgarh,Korba,0.1111111111111111,9
+Chhattisgarh,Koriya,0.2222222222222222,9
+Chhattisgarh,Mahasamund,0.2222222222222222,9
+Chhattisgarh,ManendragarhChirmiriBharatpur,0.0,3
+Chhattisgarh,Manendragarh–Chirmiri–Bharatpur,0.5,4
+Chhattisgarh,Mohalla-Manpur-Ambagarh Chowki,0.5,4
+Chhattisgarh,Mohla-Manpur-Ambagarh Chouki,0.2222222222222222,9
+Chhattisgarh,Mungeli,0.2222222222222222,9
+Chhattisgarh,Narayanpur,0.2222222222222222,9
+Chhattisgarh,Raigarh,0.4444444444444444,9
+Chhattisgarh,Raipur,0.4444444444444444,9
+Chhattisgarh,Rajnandgaon,0.3333333333333333,9
+Chhattisgarh,Sakti,0.1111111111111111,9
+Chhattisgarh,Sarangarh-Bilaigarh,0.75,4
+Chhattisgarh,Sukma,0.2222222222222222,9
+Chhattisgarh,Surajpur,0.1111111111111111,9
+Chhattisgarh,Surguja,0.2222222222222222,9
+Chhattisgarh,Uttar Bastar Kanker,0.2222222222222222,9
+Dadra & Nagar Haveli,Dadra & Nagar Haveli,0.3333333333333333,6
+Dadra and Nagar Haveli,Dadra and Nagar Haveli,0.2222222222222222,9
+Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,0.2222222222222222,9
+Dadra and Nagar Haveli and Daman and Diu,Daman,0.2222222222222222,9
+Dadra and Nagar Haveli and Daman and Diu,Diu,0.5,4
+Daman & Diu,Daman,0.4444444444444444,9
+Daman & Diu,Diu,0.25,8
+Daman and Diu,Daman,0.4444444444444444,9
+Daman and Diu,Diu,0.2222222222222222,9
+Delhi,Central Delhi,0.5555555555555556,9
+Delhi,East Delhi,0.4444444444444444,9
+Delhi,Najafgarh,0.14285714285714285,7
+Delhi,New Delhi,0.3333333333333333,9
+Delhi,North Delhi,0.3333333333333333,9
+Delhi,North East,0.2222222222222222,9
+Delhi,North East   *,0.0,1
+Delhi,North East Delhi,0.2222222222222222,9
+Delhi,North West Delhi,0.7777777777777778,9
+Delhi,Shahdara,0.3333333333333333,9
+Delhi,South Delhi,0.6666666666666666,9
+Delhi,South East Delhi,0.2222222222222222,9
+Delhi,South West Delhi,0.6666666666666666,9
+Delhi,West Delhi,0.6666666666666666,9
+Goa,Bardez,0.25,4
+Goa,North Goa,0.3333333333333333,9
+Goa,South Goa,0.2222222222222222,9
+Goa,Tiswadi,0.0,2
+Gujarat,Ahmadabad,0.2222222222222222,9
+Gujarat,Ahmedabad,0.6666666666666666,9
+Gujarat,Amreli,0.2222222222222222,9
+Gujarat,Anand,0.4444444444444444,9
+Gujarat,Arvalli,0.2222222222222222,9
+Gujarat,Banas Kantha,0.2857142857142857,7
+Gujarat,Banaskantha,0.2222222222222222,9
+Gujarat,Bharuch,0.3333333333333333,9
+Gujarat,Bhavnagar,0.2222222222222222,9
+Gujarat,Botad,0.3333333333333333,9
+Gujarat,Chhotaudepur,0.3333333333333333,9
+Gujarat,Dahod,0.1111111111111111,9
+Gujarat,Dang,0.0,2
+Gujarat,Devbhumi Dwarka,0.3333333333333333,9
+Gujarat,Dohad,0.3333333333333333,9
+Gujarat,Gandhinagar,0.6666666666666666,9
+Gujarat,Gir Somnath,0.2222222222222222,9
+Gujarat,Jamnagar,0.3333333333333333,9
+Gujarat,Junagadh,0.2222222222222222,9
+Gujarat,Kachchh,0.7777777777777778,9
+Gujarat,Kheda,0.3333333333333333,9
+Gujarat,Mahesana,0.4444444444444444,9
+Gujarat,Mahisagar,0.2222222222222222,9
+Gujarat,Morbi,0.3333333333333333,9
+Gujarat,Narmada,0.3333333333333333,9
+Gujarat,Navsari,0.2222222222222222,9
+Gujarat,Panch Mahals,0.4,5
+Gujarat,Panchmahals,0.2222222222222222,9
+Gujarat,Patan,0.4444444444444444,9
+Gujarat,Porbandar,0.2222222222222222,9
+Gujarat,Rajkot,0.6666666666666666,9
+Gujarat,Sabar Kantha,0.4,5
+Gujarat,Sabarkantha,0.2222222222222222,9
+Gujarat,Surat,0.4444444444444444,9
+Gujarat,Surendra Nagar,0.4444444444444444,9
+Gujarat,Surendranagar,0.4,5
+Gujarat,Tapi,0.2222222222222222,9
+Gujarat,The Dangs,0.1111111111111111,9
+Gujarat,Vadodara,0.6666666666666666,9
+Gujarat,Valsad,0.2222222222222222,9
+Haryana,Akhera,0.0,1
+Haryana,Ambala,0.4444444444444444,9
+Haryana,Bhiwani,0.3333333333333333,9
+Haryana,Charkhi Dadri,0.2222222222222222,9
+Haryana,Faridabad,0.3333333333333333,9
+Haryana,Fatehabad,0.2222222222222222,9
+Haryana,Gurgaon,0.2222222222222222,9
+Haryana,Gurugram,0.0,3
+Haryana,Hisar,0.3333333333333333,9
+Haryana,Jhajjar,0.2222222222222222,9
+Haryana,Jhajjar *,0.0,1
+Haryana,Jind,0.2222222222222222,9
+Haryana,Kaithal,0.3333333333333333,9
+Haryana,Karnal,0.2222222222222222,9
+Haryana,Kurukshetra,0.2222222222222222,9
+Haryana,Mahendragarh,0.3333333333333333,9
+Haryana,Mewat,0.3333333333333333,9
+Haryana,Nuh,0.0,1
+Haryana,Palwal,0.2222222222222222,9
+Haryana,Panchkula,0.2222222222222222,9
+Haryana,Panipat,0.2222222222222222,9
+Haryana,Rewari,0.3333333333333333,9
+Haryana,Rohtak,0.4444444444444444,9
+Haryana,Sirsa,0.2222222222222222,9
+Haryana,Sonipat,0.3333333333333333,9
+Haryana,Yamuna Nagar,0.2222222222222222,9
+Haryana,Yamunanagar,0.125,8
+Himachal Pradesh,Bilaspur,0.2222222222222222,9
+Himachal Pradesh,Chamba,0.1111111111111111,9
+Himachal Pradesh,Hamirpur,0.2222222222222222,9
+Himachal Pradesh,Kangra,0.2222222222222222,9
+Himachal Pradesh,Kinnaur,0.2222222222222222,9
+Himachal Pradesh,Kullu,0.2222222222222222,9
+Himachal Pradesh,Lahaul and Spiti,0.25,4
+Himachal Pradesh,Lahul & Spiti,0.6,5
+Himachal Pradesh,Lahul and Spiti,0.3333333333333333,6
+Himachal Pradesh,Mandi,0.2222222222222222,9
+Himachal Pradesh,Shimla,0.2222222222222222,9
+Himachal Pradesh,Sirmaur,0.3333333333333333,9
+Himachal Pradesh,Solan,0.2222222222222222,9
+Himachal Pradesh,Una,0.2222222222222222,9
+Jammu & Kashmir,Anantnag,0.3333333333333333,3
+Jammu & Kashmir,Badgam,0.0,3
+Jammu & Kashmir,Bandipur,0.0,3
+Jammu & Kashmir,Baramula,0.25,4
+Jammu & Kashmir,Doda,0.0,3
+Jammu & Kashmir,Jammu,0.5,4
+Jammu & Kashmir,Kargil,0.0,3
+Jammu & Kashmir,Kathua,0.5,4
+Jammu & Kashmir,Kupwara,0.0,4
+Jammu & Kashmir,Leh (ladakh),0.0,4
+Jammu & Kashmir,Pulwama,0.0,3
+Jammu & Kashmir,Punch,0.0,2
+Jammu & Kashmir,Rajauri,0.25,4
+Jammu & Kashmir,Srinagar,0.0,4
+Jammu & Kashmir,Udhampur,0.25,4
+Jammu And Kashmir,Doda,0.0,1
+Jammu And Kashmir,Shopian,0.0,1
+Jammu and Kashmir,?,0.0,1
+Jammu and Kashmir,Anantnag,0.3333333333333333,9
+Jammu and Kashmir,Badgam,0.2222222222222222,9
+Jammu and Kashmir,Bandipore,0.2222222222222222,9
+Jammu and Kashmir,Baramula,0.4444444444444444,9
+Jammu and Kashmir,Budgam,0.2222222222222222,9
+Jammu and Kashmir,Doda,0.3333333333333333,9
+Jammu and Kashmir,Ganderbal,0.2222222222222222,9
+Jammu and Kashmir,Jammu,0.3333333333333333,9
+Jammu and Kashmir,Kargil,0.2222222222222222,9
+Jammu and Kashmir,Kathua,0.3333333333333333,9
+Jammu and Kashmir,Kishtwar,0.2222222222222222,9
+Jammu and Kashmir,Kulgam,0.2222222222222222,9
+Jammu and Kashmir,Kupwara,0.1111111111111111,9
+Jammu and Kashmir,Leh,0.1111111111111111,9
+Jammu and Kashmir,Poonch,0.0,1
+Jammu and Kashmir,Pulwama,0.2222222222222222,9
+Jammu and Kashmir,Punch,0.2222222222222222,9
+Jammu and Kashmir,Rajouri,0.2222222222222222,9
+Jammu and Kashmir,Ramban,0.2222222222222222,9
+Jammu and Kashmir,Reasi,0.2222222222222222,9
+Jammu and Kashmir,Samba,0.2222222222222222,9
+Jammu and Kashmir,Shupiyan,0.1111111111111111,9
+Jammu and Kashmir,Srinagar,0.3333333333333333,9
+Jammu and Kashmir,Udhampur,0.2222222222222222,9
+Jammu and Kashmir,punch,0.0,1
+Jammu and Kashmir,udhampur,0.0,1
+Jharkhand,Bokaro,0.1111111111111111,9
+Jharkhand,Bokaro *,0.0,4
+Jharkhand,Chatra,0.1111111111111111,9
+Jharkhand,Deoghar,0.2222222222222222,9
+Jharkhand,Dhanbad,0.1111111111111111,9
+Jharkhand,Dumka,0.2222222222222222,9
+Jharkhand,East Singhbhum,0.2222222222222222,9
+Jharkhand,East Singhbum,0.0,1
+Jharkhand,Garhwa,0.1111111111111111,9
+Jharkhand,Garhwa *,0.2222222222222222,9
+Jharkhand,Giridih,0.1111111111111111,9
+Jharkhand,Godda,0.2222222222222222,9
+Jharkhand,Gumla,0.2222222222222222,9
+Jharkhand,Hazaribag,0.1111111111111111,9
+Jharkhand,Hazaribagh,0.1111111111111111,9
+Jharkhand,Jamtara,0.1111111111111111,9
+Jharkhand,Khunti,0.1111111111111111,9
+Jharkhand,Kodarma,0.2222222222222222,9
+Jharkhand,Koderma,0.2222222222222222,9
+Jharkhand,Latehar,0.1111111111111111,9
+Jharkhand,Lohardaga,0.1111111111111111,9
+Jharkhand,Pakaur,0.1111111111111111,9
+Jharkhand,Pakur,0.0,9
+Jharkhand,Palamau,0.1111111111111111,9
+Jharkhand,Palamu,0.1111111111111111,9
+Jharkhand,Pashchimi Singhbhum,0.2222222222222222,9
+Jharkhand,Purbi Singhbhum,0.1111111111111111,9
+Jharkhand,Ramgarh,0.1111111111111111,9
+Jharkhand,Ranchi,0.3333333333333333,9
+Jharkhand,Sahebganj,0.1111111111111111,9
+Jharkhand,Sahibganj,0.1111111111111111,9
+Jharkhand,Seraikela-Kharsawan,0.1111111111111111,9
+Jharkhand,Seraikela-kharsawan,0.1111111111111111,9
+Jharkhand,Simdega,0.2222222222222222,9
+Jharkhand,West Singhbhum,0.1111111111111111,9
+Karnataka,Bagalkot,0.0,9
+Karnataka,Bagalkot *,0.0,9
+Karnataka,Ballari,0.1111111111111111,9
+Karnataka,Bangalore,0.2222222222222222,9
+Karnataka,Bangalore Rural,0.3333333333333333,9
+Karnataka,Belagavi,0.3333333333333333,9
+Karnataka,Belgaum,0.2222222222222222,9
+Karnataka,Bellary,0.1111111111111111,9
+Karnataka,Bengaluru,0.3333333333333333,9
+Karnataka,Bengaluru Rural,0.0,6
+Karnataka,Bengaluru South,0.75,4
+Karnataka,Bengaluru Urban,0.0,3
+Karnataka,Bidar,0.3333333333333333,9
+Karnataka,Bijapur,0.2222222222222222,9
+Karnataka,Bijapur(KAR),0.0,4
+Karnataka,Chamarajanagar,0.2222222222222222,9
+Karnataka,Chamarajanagar *,0.5,4
+Karnataka,Chamrajanagar,0.2222222222222222,9
+Karnataka,Chamrajnagar,0.2222222222222222,9
+Karnataka,Chickmagalur,0.2222222222222222,9
+Karnataka,Chikkaballapur,0.2222222222222222,9
+Karnataka,Chikkamagaluru,0.2222222222222222,9
+Karnataka,Chikmagalur,0.1111111111111111,9
+Karnataka,Chitradurga,0.3333333333333333,9
+Karnataka,Dakshina Kannada,0.2222222222222222,9
+Karnataka,Davanagere,0.1111111111111111,9
+Karnataka,Davangere,0.3333333333333333,9
+Karnataka,Dharwad,0.3333333333333333,9
+Karnataka,Gadag,0.0,9
+Karnataka,Gadag *,0.0,9
+Karnataka,Gulbarga,0.1111111111111111,9
+Karnataka,Hasan,0.1111111111111111,9
+Karnataka,Hassan,0.2222222222222222,9
+Karnataka,Haveri,0.1111111111111111,9
+Karnataka,Haveri *,0.2222222222222222,9
+Karnataka,Kalaburagi,0.2222222222222222,9
+Karnataka,Kodagu,0.1111111111111111,9
+Karnataka,Kolar,0.2222222222222222,9
+Karnataka,Koppal,0.3333333333333333,9
+Karnataka,Mandya,0.2222222222222222,9
+Karnataka,Mysore,0.2222222222222222,9
+Karnataka,Mysuru,0.2222222222222222,9
+Karnataka,Raichur,0.4444444444444444,9
+Karnataka,Ramanagar,0.1111111111111111,9
+Karnataka,Ramanagara,0.0,1
+Karnataka,Shimoga,0.1111111111111111,9
+Karnataka,Shivamogga,0.3333333333333333,9
+Karnataka,Tumakuru,0.2222222222222222,9
+Karnataka,Tumkur,0.2222222222222222,9
+Karnataka,Udupi,0.0,9
+Karnataka,Udupi *,0.0,3
+Karnataka,Uttara Kannada,0.2222222222222222,9
+Karnataka,Vijayanagara,0.2222222222222222,9
+Karnataka,Vijayapura,0.3333333333333333,9
+Karnataka,Yadgir,0.2222222222222222,9
+Karnataka,yadgir,0.1111111111111111,9
+Kerala,Alappuzha,0.2222222222222222,9
+Kerala,Ernakulam,0.4444444444444444,9
+Kerala,Idukki,0.2222222222222222,9
+Kerala,Kannur,0.3333333333333333,9
+Kerala,Kasaragod,0.2222222222222222,9
+Kerala,Kasargod,0.125,8
+Kerala,Kollam,0.3333333333333333,9
+Kerala,Kottayam,0.2222222222222222,9
+Kerala,Kozhikode,0.2222222222222222,9
+Kerala,Malappuram,0.3333333333333333,9
+Kerala,Palakkad,0.2222222222222222,9
+Kerala,Pathanamthitta,0.2222222222222222,9
+Kerala,Thiruvananthapuram,0.4444444444444444,9
+Kerala,Thrissur,0.3333333333333333,9
+Kerala,Wayanad,0.2222222222222222,9
+Ladakh,Kargil,0.2222222222222222,9
+Ladakh,Leh,0.3333333333333333,9
+Lakshadweep,Lakshadweep,0.1111111111111111,9
+Madhya Pradesh,Agar Malwa,0.2222222222222222,9
+Madhya Pradesh,Alirajpur,0.3333333333333333,9
+Madhya Pradesh,Anuppur,0.2222222222222222,9
+Madhya Pradesh,Ashok Nagar,0.4444444444444444,9
+Madhya Pradesh,Ashoknagar,0.0,2
+Madhya Pradesh,Balaghat,0.3333333333333333,9
+Madhya Pradesh,Barwani,0.5555555555555556,9
+Madhya Pradesh,Betul,0.2222222222222222,9
+Madhya Pradesh,Bhind,0.3333333333333333,9
+Madhya Pradesh,Bhopal,0.5555555555555556,9
+Madhya Pradesh,Burhanpur,0.2222222222222222,9
+Madhya Pradesh,Chhatarpur,0.6666666666666666,9
+Madhya Pradesh,Chhindwara,0.2222222222222222,9
+Madhya Pradesh,Damoh,0.1111111111111111,9
+Madhya Pradesh,Datia,0.3333333333333333,9
+Madhya Pradesh,Dewas,0.4444444444444444,9
+Madhya Pradesh,Dhar,0.4444444444444444,9
+Madhya Pradesh,Dindori,0.2222222222222222,9
+Madhya Pradesh,East Nimar,0.2222222222222222,9
+Madhya Pradesh,Guna,0.4444444444444444,9
+Madhya Pradesh,Gwalior,0.4444444444444444,9
+Madhya Pradesh,Harda,0.1111111111111111,9
+Madhya Pradesh,Harda *,0.2222222222222222,9
+Madhya Pradesh,Hoshangabad,0.2222222222222222,9
+Madhya Pradesh,Indore,0.6666666666666666,9
+Madhya Pradesh,Jabalpur,0.3333333333333333,9
+Madhya Pradesh,Jhabua,0.1111111111111111,9
+Madhya Pradesh,Katni,0.3333333333333333,9
+Madhya Pradesh,Khandwa,0.3333333333333333,9
+Madhya Pradesh,Khargone,0.5555555555555556,9
+Madhya Pradesh,Maihar,0.2857142857142857,7
+Madhya Pradesh,Mandla,0.2222222222222222,9
+Madhya Pradesh,Mandsaur,0.1111111111111111,9
+Madhya Pradesh,Mauganj,0.14285714285714285,7
+Madhya Pradesh,Morena,0.4444444444444444,9
+Madhya Pradesh,Narmadapuram,0.2222222222222222,9
+Madhya Pradesh,Narsimhapur,0.2222222222222222,9
+Madhya Pradesh,Narsinghpur,0.2222222222222222,9
+Madhya Pradesh,Neemuch,0.1111111111111111,9
+Madhya Pradesh,Niwari,0.2222222222222222,9
+Madhya Pradesh,Pandhurna,0.4,5
+Madhya Pradesh,Panna,0.5555555555555556,9
+Madhya Pradesh,Raisen,0.4444444444444444,9
+Madhya Pradesh,Rajgarh,0.2222222222222222,9
+Madhya Pradesh,Ratlam,0.2222222222222222,9
+Madhya Pradesh,Rewa,0.2222222222222222,9
+Madhya Pradesh,Sagar,0.5555555555555556,9
+Madhya Pradesh,Satna,0.5555555555555556,9
+Madhya Pradesh,Sehore,0.2222222222222222,9
+Madhya Pradesh,Seoni,0.2222222222222222,9
+Madhya Pradesh,Shahdol,0.3333333333333333,9
+Madhya Pradesh,Shajapur,0.2222222222222222,9
+Madhya Pradesh,Sheopur,0.3333333333333333,9
+Madhya Pradesh,Shivpuri,0.4444444444444444,9
+Madhya Pradesh,Sidhi,0.1111111111111111,9
+Madhya Pradesh,Singrauli,0.0,9
+Madhya Pradesh,Tikamgarh,0.2222222222222222,9
+Madhya Pradesh,Ujjain,0.1111111111111111,9
+Madhya Pradesh,Umaria,0.1111111111111111,9
+Madhya Pradesh,Vidisha,0.3333333333333333,9
+Madhya Pradesh,West Nimar,0.2222222222222222,9
+Maharashtra,Ahilyanagar,0.0,1
+Maharashtra,Ahmadnagar,0.3333333333333333,9
+Maharashtra,Ahmed Nagar,0.2222222222222222,9
+Maharashtra,Ahmednagar,0.0,1
+Maharashtra,Akola,0.3333333333333333,9
+Maharashtra,Amravati,0.6666666666666666,9
+Maharashtra,Aurangabad,0.4444444444444444,9
+Maharashtra,Beed,0.8888888888888888,9
+Maharashtra,Bhandara,0.3333333333333333,9
+Maharashtra,Bid,0.375,8
+Maharashtra,Buldana,0.3333333333333333,9
+Maharashtra,Buldhana,0.5555555555555556,9
+Maharashtra,Chandrapur,0.7777777777777778,9
+Maharashtra,Chatrapati Sambhaji Nagar,0.2222222222222222,9
+Maharashtra,Chhatrapati Sambhajinagar,0.3333333333333333,9
+Maharashtra,Dharashiv,0.375,8
+Maharashtra,Dhule,0.4444444444444444,9
+Maharashtra,Gadchiroli,0.3333333333333333,9
+Maharashtra,Gondia,0.75,4
+Maharashtra,Gondiya,0.3333333333333333,9
+Maharashtra,Gondiya *,0.75,4
+Maharashtra,Hingoli,0.3333333333333333,9
+Maharashtra,Hingoli *,0.0,4
+Maharashtra,Jalgaon,0.6666666666666666,9
+Maharashtra,Jalna,0.3333333333333333,9
+Maharashtra,Kolhapur,0.4444444444444444,9
+Maharashtra,Latur,0.6666666666666666,9
+Maharashtra,Mumbai,0.2222222222222222,9
+Maharashtra,Mumbai City,0.3333333333333333,9
+Maharashtra,Mumbai Suburban,0.5555555555555556,9
+Maharashtra,Mumbai( Sub Urban ),0.3333333333333333,6
+Maharashtra,Nagpur,0.7777777777777778,9
+Maharashtra,Nanded,0.5555555555555556,9
+Maharashtra,Nandurbar,0.5555555555555556,9
+Maharashtra,Nandurbar *,0.75,4
+Maharashtra,Nashik,0.5555555555555556,9
+Maharashtra,Osmanabad,0.3333333333333333,9
+Maharashtra,Palghar,0.3333333333333333,9
+Maharashtra,Parbhani,0.5555555555555556,9
+Maharashtra,Pune,0.8888888888888888,9
+Maharashtra,Raigad,0.4444444444444444,9
+Maharashtra,Raigarh,0.3333333333333333,9
+Maharashtra,Raigarh(MH),0.5,4
+Maharashtra,Ratnagiri,0.4444444444444444,9
+Maharashtra,Sangli,0.5555555555555556,9
+Maharashtra,Satara,0.6666666666666666,9
+Maharashtra,Sindhudurg,0.3333333333333333,9
+Maharashtra,Solapur,0.5555555555555556,9
+Maharashtra,Thane,0.8888888888888888,9
+Maharashtra,Wardha,0.4444444444444444,9
+Maharashtra,Washim,0.4444444444444444,9
+Maharashtra,Washim *,0.75,4
+Maharashtra,Yavatmal,0.5555555555555556,9
+Manipur,Bishnupur,0.2222222222222222,9
+Manipur,Chandel,0.2222222222222222,9
+Manipur,Churachandpur,0.2222222222222222,9
+Manipur,Imphal East,0.2222222222222222,9
+Manipur,Imphal West,0.2222222222222222,9
+Manipur,Jiribam,0.1111111111111111,9
+Manipur,Kakching,0.0,9
+Manipur,Pherzawl,0.5,4
+Manipur,Senapati,0.2222222222222222,9
+Manipur,Tamenglong,0.2222222222222222,9
+Manipur,Thoubal,0.2222222222222222,9
+Manipur,Ukhrul,0.2222222222222222,9
+Meghalaya,East Garo Hills,0.4444444444444444,9
+Meghalaya,East Jaintia Hills,0.4444444444444444,9
+Meghalaya,East Khasi Hills,0.5555555555555556,9
+Meghalaya,Eastern West Khasi Hills,0.25,4
+Meghalaya,Jaintia Hills,0.0,3
+Meghalaya,Kamrup,0.0,1
+Meghalaya,North Garo Hills,0.3333333333333333,9
+Meghalaya,Ri Bhoi,0.5555555555555556,9
+Meghalaya,South Garo Hills,0.2222222222222222,9
+Meghalaya,South West Garo Hills,0.4444444444444444,9
+Meghalaya,South West Khasi Hills,0.4444444444444444,9
+Meghalaya,West Garo Hills,0.4444444444444444,9
+Meghalaya,West Jaintia Hills,0.5555555555555556,9
+Meghalaya,West Khasi Hills,0.5555555555555556,9
+Mizoram,Aizawl,0.2222222222222222,9
+Mizoram,Champhai,0.2222222222222222,9
+Mizoram,Hnahthial,0.25,4
+Mizoram,Khawzawl,0.5,4
+Mizoram,Kolasib,0.1111111111111111,9
+Mizoram,Lawngtlai,0.1111111111111111,9
+Mizoram,Lunglei,0.2222222222222222,9
+Mizoram,Mamit,0.0,9
+Mizoram,Mammit,0.0,9
+Mizoram,Saiha,0.1111111111111111,9
+Mizoram,Saitual,0.6666666666666666,6
+Mizoram,Serchhip,0.1111111111111111,9
+Nagaland,Chumukedima,0.375,8
+Nagaland,Dimapur,0.2222222222222222,9
+Nagaland,Kiphire,0.1111111111111111,9
+Nagaland,Kohima,0.2222222222222222,9
+Nagaland,Longleng,0.2222222222222222,9
+Nagaland,Meluri,0.5,4
+Nagaland,Mokokchung,0.3333333333333333,9
+Nagaland,Mon,0.1111111111111111,9
+Nagaland,Niuland,0.14285714285714285,7
+Nagaland,Noklak,0.1111111111111111,9
+Nagaland,Peren,0.2222222222222222,9
+Nagaland,Phek,0.1111111111111111,9
+Nagaland,Shamator,0.4,5
+Nagaland,Tseminyu,0.3333333333333333,6
+Nagaland,Tuensang,0.1111111111111111,9
+Nagaland,Wokha,0.2222222222222222,9
+Nagaland,Zunheboto,0.2222222222222222,9
+ODISHA,NUAPADA,0.0,4
+Odisha,ANGUL,0.0,2
+Odisha,ANUGUL,0.25,8
+Odisha,Angul,0.1111111111111111,9
+Odisha,Anugal,0.3333333333333333,3
+Odisha,Anugul,0.2222222222222222,9
+Odisha,BALANGIR,0.0,1
+Odisha,Balangir,0.2222222222222222,9
+Odisha,Baleshwar,0.2222222222222222,9
+Odisha,Baleswar,0.0,9
+Odisha,Bargarh,0.0,9
+Odisha,Baudh,0.1111111111111111,9
+Odisha,Bhadrak,0.1111111111111111,9
+Odisha,Boudh,0.0,9
+Odisha,Cuttack,0.2222222222222222,9
+Odisha,Debagarh,0.1111111111111111,9
+Odisha,Dhenkanal,0.0,9
+Odisha,Gajapati,0.1111111111111111,9
+Odisha,Ganjam,0.1111111111111111,9
+Odisha,JAJPUR,0.2222222222222222,9
+Odisha,Jagatsinghapur,0.1111111111111111,9
+Odisha,Jagatsinghpur,0.2222222222222222,9
+Odisha,Jajapur,0.2222222222222222,9
+Odisha,Jajpur,0.2857142857142857,7
+Odisha,Jharsuguda,0.1111111111111111,9
+Odisha,Kalahandi,0.1111111111111111,9
+Odisha,Kandhamal,0.0,9
+Odisha,Kendrapara,0.1111111111111111,9
+Odisha,Kendujhar,0.2222222222222222,9
+Odisha,Khorda,0.2222222222222222,9
+Odisha,Khordha,0.2222222222222222,9
+Odisha,Koraput,0.1111111111111111,9
+Odisha,Malkangiri,0.1111111111111111,9
+Odisha,Mayurbhanj,0.1111111111111111,9
+Odisha,NAYAGARH,0.0,3
+Odisha,NUAPADA,0.4,5
+Odisha,Nabarangapur,0.1111111111111111,9
+Odisha,Nabarangpur,0.0,1
+Odisha,Nayagarh,0.0,9
+Odisha,Nuapada,0.1111111111111111,9
+Odisha,Puri,0.2222222222222222,9
+Odisha,Rayagada,0.1111111111111111,9
+Odisha,Sambalpur,0.2222222222222222,9
+Odisha,Sonapur,0.0,9
+Odisha,Subarnapur,0.1111111111111111,9
+Odisha,Sundargarh,0.2222222222222222,9
+Odisha,Sundergarh,0.1111111111111111,9
+Odisha,jajpur,0.2857142857142857,7
+Orissa,Angul,0.0,1
+Orissa,Anugul,0.25,4
+Orissa,Anugul  *,0.0,1
+Orissa,Balangir,0.2222222222222222,9
+Orissa,Baleshwar,0.1111111111111111,9
+Orissa,Baleswar,0.25,4
+Orissa,Bargarh,0.25,8
+Orissa,Baudh,0.0,4
+Orissa,Bhadrak,0.2222222222222222,9
+Orissa,Cuttack,0.2222222222222222,9
+Orissa,Debagarh,0.0,4
+Orissa,Dhenkanal,0.1111111111111111,9
+Orissa,Gajapati,0.5,4
+Orissa,Ganjam,0.1111111111111111,9
+Orissa,Jagatsinghapur,0.5,4
+Orissa,Jajapur,0.25,8
+Orissa,Jharsuguda,0.5,4
+Orissa,Kalahandi,0.25,4
+Orissa,Kandhamal,0.25,4
+Orissa,Kendrapara,0.25,4
+Orissa,Kendrapara *,0.0,1
+Orissa,Kendujhar,0.2,5
+Orissa,Khorda,0.0,3
+Orissa,Khordha,0.2222222222222222,9
+Orissa,Khordha  *,0.0,1
+Orissa,Koraput,0.1111111111111111,9
+Orissa,Malkangiri,0.2,5
+Orissa,Mayurbhanj,0.25,4
+Orissa,Nabarangapur,0.25,4
+Orissa,Nayagarh,0.14285714285714285,7
+Orissa,Nuapada,0.0,3
+Orissa,Puri,0.2222222222222222,9
+Orissa,Rayagada,0.2222222222222222,9
+Orissa,Sambalpur,0.25,4
+Orissa,Sonapur,0.25,4
+Orissa,Subarnapur,0.0,4
+Orissa,Sundargarh,0.2857142857142857,7
+Orissa,Sundergarh,0.0,2
+Pondicherry,Cuddalore,0.0,3
+Pondicherry,Karaikal,0.4,5
+Pondicherry,Pondicherry,0.2222222222222222,9
+Pondicherry,Viluppuram,0.0,4
+Pondicherry,Yanam,0.5,4
+Puducherry,Karaikal,0.2222222222222222,9
+Puducherry,Pondicherry,0.25,4
+Puducherry,Puducherry,0.3333333333333333,9
+Puducherry,Yanam,0.25,4
+Punjab,Amritsar,0.5555555555555556,9
+Punjab,Barnala,0.2222222222222222,9
+Punjab,Bathinda,0.3333333333333333,9
+Punjab,Faridkot,0.3333333333333333,9
+Punjab,Fatehgarh Sahib,0.2222222222222222,9
+Punjab,Fazilka,0.2222222222222222,9
+Punjab,Ferozepur,0.2222222222222222,9
+Punjab,Firozpur,0.2222222222222222,9
+Punjab,Gurdaspur,0.5555555555555556,9
+Punjab,Hoshiarpur,0.6666666666666666,9
+Punjab,Jalandhar,0.3333333333333333,9
+Punjab,Kapurthala,0.4444444444444444,9
+Punjab,Ludhiana,0.6666666666666666,9
+Punjab,Malerkotla,0.1111111111111111,9
+Punjab,Mansa,0.3333333333333333,9
+Punjab,Moga,0.3333333333333333,9
+Punjab,Muktsar,0.2222222222222222,9
+Punjab,Nawanshahr,0.8,5
+Punjab,Pathankot,0.2222222222222222,9
+Punjab,Patiala,0.4444444444444444,9
+Punjab,Rupnagar,0.2222222222222222,9
+Punjab,S.A.S Nagar,0.0,2
+Punjab,S.A.S Nagar(Mohali),0.25,8
+Punjab,SAS Nagar (Mohali),0.3333333333333333,9
+Punjab,Sangrur,0.3333333333333333,9
+Punjab,Shaheed Bhagat Singh Nagar,0.3333333333333333,9
+Punjab,Sri Muktsar Sahib,0.4444444444444444,9
+Punjab,Tarn Taran,0.4444444444444444,9
+Rajasthan,Ajmer,0.4444444444444444,9
+Rajasthan,Alwar,0.5555555555555556,9
+Rajasthan,Balotra,0.0,2
+Rajasthan,Banswara,0.1111111111111111,9
+Rajasthan,Baran,0.3333333333333333,9
+Rajasthan,Barmer,0.2222222222222222,9
+Rajasthan,Beawar,0.0,1
+Rajasthan,Bharatpur,0.2222222222222222,9
+Rajasthan,Bhilwara,0.2222222222222222,9
+Rajasthan,Bikaner,0.5555555555555556,9
+Rajasthan,Bundi,0.5555555555555556,9
+Rajasthan,Chittaurgarh,0.1111111111111111,9
+Rajasthan,Chittorgarh,0.2222222222222222,9
+Rajasthan,Churu,0.5555555555555556,9
+Rajasthan,Dausa,0.3333333333333333,9
+Rajasthan,Deeg,0.5,4
+Rajasthan,Deeg ,0.5,4
+Rajasthan,Dhaulpur,0.2,5
+Rajasthan,Dholpur,0.2222222222222222,9
+Rajasthan,Didwana-Kuchaman,0.5,2
+Rajasthan,Dungarpur,0.2222222222222222,9
+Rajasthan,Ganganagar,0.3333333333333333,9
+Rajasthan,Hanumangarh,0.3333333333333333,9
+Rajasthan,Jaipur,0.4444444444444444,9
+Rajasthan,Jaisalmer,0.2222222222222222,9
+Rajasthan,Jalor,0.2222222222222222,9
+Rajasthan,Jalore,0.3333333333333333,3
+Rajasthan,Jhalawar,0.3333333333333333,9
+Rajasthan,Jhunjhunu,0.2222222222222222,9
+Rajasthan,Jhunjhunun,0.2222222222222222,9
+Rajasthan,Jodhpur,0.6666666666666666,9
+Rajasthan,Karauli,0.2222222222222222,9
+Rajasthan,Khairthal-Tijara,0.0,1
+Rajasthan,Kota,0.3333333333333333,9
+Rajasthan,Kotputli-Behror,0.0,1
+Rajasthan,Nagaur,0.4444444444444444,9
+Rajasthan,Pali,0.4444444444444444,9
+Rajasthan,Phalodi,0.0,1
+Rajasthan,Pratapgarh,0.2222222222222222,9
+Rajasthan,Rajsamand,0.2222222222222222,9
+Rajasthan,Salumbar,0.0,1
+Rajasthan,Sawai Madhopur,0.3333333333333333,9
+Rajasthan,Sikar,0.6666666666666666,9
+Rajasthan,Sirohi,0.2222222222222222,9
+Rajasthan,Tonk,0.2222222222222222,9
+Rajasthan,Udaipur,0.4444444444444444,9
+Sikkim,East,0.2222222222222222,9
+Sikkim,East Sikkim,0.2222222222222222,9
+Sikkim,Mangan,0.6666666666666666,3
+Sikkim,Namchi,1.0,4
+Sikkim,North,0.16666666666666666,6
+Sikkim,North Sikkim,0.1111111111111111,9
+Sikkim,South,0.2222222222222222,9
+Sikkim,South Sikkim,0.2222222222222222,9
+Sikkim,West,0.2222222222222222,9
+Sikkim,West Sikkim,0.2222222222222222,9
+Tamil Nadu,Ariyalur,0.1111111111111111,9
+Tamil Nadu,Chengalpattu,0.2222222222222222,9
+Tamil Nadu,Chennai,0.2222222222222222,9
+Tamil Nadu,Coimbatore,0.3333333333333333,9
+Tamil Nadu,Cuddalore,0.3333333333333333,9
+Tamil Nadu,Dharmapuri,0.1111111111111111,9
+Tamil Nadu,Dindigul,0.1111111111111111,9
+Tamil Nadu,Erode,0.2222222222222222,9
+Tamil Nadu,Kallakurichi,0.1111111111111111,9
+Tamil Nadu,Kancheepuram,0.3333333333333333,9
+Tamil Nadu,Kanchipuram,0.0,5
+Tamil Nadu,Kanniyakumari,0.2222222222222222,9
+Tamil Nadu,Kanyakumari,0.1111111111111111,9
+Tamil Nadu,Karur,0.1111111111111111,9
+Tamil Nadu,Krishnagiri,0.2222222222222222,9
+Tamil Nadu,Madurai,0.3333333333333333,9
+Tamil Nadu,Mayiladuthurai,0.2222222222222222,9
+Tamil Nadu,Nagapattinam,0.2222222222222222,9
+Tamil Nadu,Namakkal,0.1111111111111111,9
+Tamil Nadu,Namakkal   *,0.0,1
+Tamil Nadu,Perambalur,0.1111111111111111,9
+Tamil Nadu,Pudukkottai,0.2222222222222222,9
+Tamil Nadu,Ramanathapuram,0.3333333333333333,9
+Tamil Nadu,Ranipet,0.125,8
+Tamil Nadu,Salem,0.2222222222222222,9
+Tamil Nadu,Sivaganga,0.3333333333333333,9
+Tamil Nadu,Tenkasi,0.1111111111111111,9
+Tamil Nadu,Thanjavur,0.2222222222222222,9
+Tamil Nadu,The Nilgiris,0.2222222222222222,9
+Tamil Nadu,Theni,0.2222222222222222,9
+Tamil Nadu,Thiruvallur,0.1111111111111111,9
+Tamil Nadu,Thiruvarur,0.2222222222222222,9
+Tamil Nadu,Thoothukkudi,0.2222222222222222,9
+Tamil Nadu,Tiruchirappalli,0.1111111111111111,9
+Tamil Nadu,Tirunelveli,0.1111111111111111,9
+Tamil Nadu,Tirupathur,0.0,4
+Tamil Nadu,Tirupattur,0.1111111111111111,9
+Tamil Nadu,Tiruppur,0.2222222222222222,9
+Tamil Nadu,Tiruvallur,0.2222222222222222,9
+Tamil Nadu,Tiruvannamalai,0.1111111111111111,9
+Tamil Nadu,Tiruvarur,0.0,2
+Tamil Nadu,Tuticorin,0.0,3
+Tamil Nadu,Vellore,0.1111111111111111,9
+Tamil Nadu,Villupuram,0.1111111111111111,9
+Tamil Nadu,Viluppuram,0.1111111111111111,9
+Tamil Nadu,Virudhunagar,0.2222222222222222,9
+Tamilnadu,Chennai,0.0,1
+Telangana,Adilabad,0.3333333333333333,9
+Telangana,Bhadradri Kothagudem,0.0,9
+Telangana,Hanumakonda,0.0,9
+Telangana,Hyderabad,0.5555555555555556,9
+Telangana,Jagitial,0.0,9
+Telangana,Jangaon,0.0,4
+Telangana,Jangoan,0.1111111111111111,9
+Telangana,Jayashankar Bhupalpally,0.0,9
+Telangana,Jogulamba Gadwal,0.0,9
+Telangana,K.v. Rangareddy,0.2222222222222222,9
+Telangana,Kamareddy,0.1111111111111111,9
+Telangana,Karimnagar,0.3333333333333333,9
+Telangana,Khammam,0.1111111111111111,9
+Telangana,Komaram Bheem,0.0,9
+Telangana,Mahabubabad,0.1111111111111111,9
+Telangana,Mahabubnagar,0.1111111111111111,9
+Telangana,Mancherial,0.1111111111111111,9
+Telangana,Medak,0.0,9
+Telangana,Medchal Malkajgiri,0.0,2
+Telangana,Medchal-malkajgiri,0.0,9
+Telangana,Medchal?malkajgiri,0.0,4
+Telangana,Medchal−malkajgiri,0.0,4
+Telangana,Mulugu,0.0,9
+Telangana,Nagarkurnool,0.0,9
+Telangana,Nalgonda,0.1111111111111111,9
+Telangana,Narayanpet,0.0,9
+Telangana,Nirmal,0.1111111111111111,9
+Telangana,Nizamabad,0.2222222222222222,9
+Telangana,Peddapalli,0.0,9
+Telangana,Rajanna Sircilla,0.0,9
+Telangana,Ranga Reddy,0.0,1
+Telangana,Rangareddy,0.1111111111111111,9
+Telangana,Sangareddy,0.0,9
+Telangana,Siddipet,0.1111111111111111,9
+Telangana,Suryapet,0.2222222222222222,9
+Telangana,Vikarabad,0.1111111111111111,9
+Telangana,Wanaparthy,0.0,9
+Telangana,Warangal,0.2222222222222222,9
+Telangana,Warangal (urban),0.0,4
+Telangana,Warangal Rural,0.1111111111111111,9
+Telangana,Warangal Urban,0.2222222222222222,9
+Telangana,Yadadri.,0.1111111111111111,9
+The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,0.0,2
+Tripura,Dhalai,0.2222222222222222,9
+Tripura,Dhalai  *,0.3333333333333333,9
+Tripura,Gomati,0.1111111111111111,9
+Tripura,Khowai,0.2222222222222222,9
+Tripura,North Tripura,0.2222222222222222,9
+Tripura,Sepahijala,0.2222222222222222,9
+Tripura,South Tripura,0.2222222222222222,9
+Tripura,Unakoti,0.3333333333333333,9
+Tripura,West Tripura,0.2222222222222222,9
+Uttar Pradesh,Agra,0.4444444444444444,9
+Uttar Pradesh,Aligarh,0.4444444444444444,9
+Uttar Pradesh,Allahabad,0.2222222222222222,9
+Uttar Pradesh,Ambedkar Nagar,0.1111111111111111,9
+Uttar Pradesh,Amethi,0.2222222222222222,9
+Uttar Pradesh,Amroha,0.1111111111111111,9
+Uttar Pradesh,Auraiya,0.1111111111111111,9
+Uttar Pradesh,Auraiya *,0.0,1
+Uttar Pradesh,Ayodhya,0.2222222222222222,9
+Uttar Pradesh,Azamgarh,0.2222222222222222,9
+Uttar Pradesh,Baghpat,0.1111111111111111,9
+Uttar Pradesh,Bagpat,0.0,4
+Uttar Pradesh,Bahraich,0.3333333333333333,9
+Uttar Pradesh,Ballia,0.1111111111111111,9
+Uttar Pradesh,Balrampur,0.2222222222222222,9
+Uttar Pradesh,Banda,0.2222222222222222,9
+Uttar Pradesh,Bara Banki,0.3333333333333333,9
+Uttar Pradesh,Barabanki,0.2222222222222222,9
+Uttar Pradesh,Bareilly,0.5555555555555556,9
+Uttar Pradesh,Basti,0.2222222222222222,9
+Uttar Pradesh,Bhadohi,0.2222222222222222,9
+Uttar Pradesh,Bijnor,0.2222222222222222,9
+Uttar Pradesh,Budaun,0.2222222222222222,9
+Uttar Pradesh,Bulandshahar,0.25,4
+Uttar Pradesh,Bulandshahr,0.6666666666666666,9
+Uttar Pradesh,Chandauli,0.1111111111111111,9
+Uttar Pradesh,Chandauli *,0.0,1
+Uttar Pradesh,Chitrakoot,0.1111111111111111,9
+Uttar Pradesh,Deoria,0.2222222222222222,9
+Uttar Pradesh,Etah,0.2222222222222222,9
+Uttar Pradesh,Etawah,0.1111111111111111,9
+Uttar Pradesh,Faizabad,0.1111111111111111,9
+Uttar Pradesh,Farrukhabad,0.2222222222222222,9
+Uttar Pradesh,Fatehpur,0.2222222222222222,9
+Uttar Pradesh,Firozabad,0.2222222222222222,9
+Uttar Pradesh,Gautam Buddha Nagar,0.4444444444444444,9
+Uttar Pradesh,Gautam Buddha Nagar *,0.0,1
+Uttar Pradesh,Ghaziabad,0.4444444444444444,9
+Uttar Pradesh,Ghazipur,0.1111111111111111,9
+Uttar Pradesh,Gonda,0.2222222222222222,9
+Uttar Pradesh,Gorakhpur,0.2222222222222222,9
+Uttar Pradesh,Hamirpur,0.1111111111111111,9
+Uttar Pradesh,Hapur,0.2222222222222222,9
+Uttar Pradesh,Hardoi,0.1111111111111111,9
+Uttar Pradesh,Hathras,0.1111111111111111,9
+Uttar Pradesh,Jalaun,0.1111111111111111,9
+Uttar Pradesh,Jaunpur,0.3333333333333333,9
+Uttar Pradesh,Jhansi,0.3333333333333333,9
+Uttar Pradesh,Jyotiba Phule Nagar,0.5,4
+Uttar Pradesh,Kannauj,0.2222222222222222,9
+Uttar Pradesh,Kanpur Dehat,0.1111111111111111,9
+Uttar Pradesh,Kanpur Nagar,0.5555555555555556,9
+Uttar Pradesh,Kasganj,0.2222222222222222,9
+Uttar Pradesh,Kaushambi,0.2222222222222222,9
+Uttar Pradesh,Kheri,0.1111111111111111,9
+Uttar Pradesh,Kushi Nagar,0.0,1
+Uttar Pradesh,Kushinagar,0.1111111111111111,9
+Uttar Pradesh,Kushinagar *,0.2,5
+Uttar Pradesh,Lalitpur,0.1111111111111111,9
+Uttar Pradesh,Lucknow,0.7777777777777778,9
+Uttar Pradesh,Maharajganj,0.3333333333333333,9
+Uttar Pradesh,Mahoba,0.1111111111111111,9
+Uttar Pradesh,Mahoba *,0.0,1
+Uttar Pradesh,Mahrajganj,0.25,4
+Uttar Pradesh,Mainpuri,0.2222222222222222,9
+Uttar Pradesh,Mathura,0.5555555555555556,9
+Uttar Pradesh,Mau,0.1111111111111111,9
+Uttar Pradesh,Meerut,0.4444444444444444,9
+Uttar Pradesh,Mirzapur,0.1111111111111111,9
+Uttar Pradesh,Moradabad,0.3333333333333333,9
+Uttar Pradesh,Muzaffarnagar,0.5555555555555556,9
+Uttar Pradesh,Pilibhit,0.3333333333333333,9
+Uttar Pradesh,Pratapgarh,0.2222222222222222,9
+Uttar Pradesh,Prayagraj,0.4444444444444444,9
+Uttar Pradesh,Rae Bareli,0.2222222222222222,9
+Uttar Pradesh,Raebareli,0.25,4
+Uttar Pradesh,Rampur,0.1111111111111111,9
+Uttar Pradesh,Saharanpur,0.5555555555555556,9
+Uttar Pradesh,Sambhal,0.2222222222222222,9
+Uttar Pradesh,Sant Kabir Nagar,0.2222222222222222,9
+Uttar Pradesh,Sant Ravidas Nagar,0.2222222222222222,9
+Uttar Pradesh,Sant Ravidas Nagar Bhadohi,0.25,4
+Uttar Pradesh,Shahjahanpur,0.3333333333333333,9
+Uttar Pradesh,Shamli,0.2222222222222222,9
+Uttar Pradesh,Shravasti,0.0,2
+Uttar Pradesh,Shrawasti,0.2222222222222222,9
+Uttar Pradesh,Siddharth Nagar,0.0,2
+Uttar Pradesh,Siddharthnagar,0.2222222222222222,9
+Uttar Pradesh,Sitapur,0.2222222222222222,9
+Uttar Pradesh,Sonbhadra,0.2222222222222222,9
+Uttar Pradesh,Sultanpur,0.2222222222222222,9
+Uttar Pradesh,Unnao,0.4444444444444444,9
+Uttar Pradesh,Varanasi,0.2222222222222222,9
+Uttarakhand,Almora,0.2222222222222222,9
+Uttarakhand,Bageshwar,0.2222222222222222,9
+Uttarakhand,Chamoli,0.2222222222222222,9
+Uttarakhand,Champawat,0.2222222222222222,9
+Uttarakhand,Dehradun,0.8888888888888888,9
+Uttarakhand,Garhwal,0.5,4
+Uttarakhand,Hardwar,0.5,4
+Uttarakhand,Haridwar,0.3333333333333333,9
+Uttarakhand,Nainital,0.4444444444444444,9
+Uttarakhand,Pauri Garhwal,0.2222222222222222,9
+Uttarakhand,Pithoragarh,0.2222222222222222,9
+Uttarakhand,Rudraprayag,0.2222222222222222,9
+Uttarakhand,Tehri Garhwal,0.2222222222222222,9
+Uttarakhand,Udham Singh Nagar,0.2222222222222222,9
+Uttarakhand,Uttarkashi,0.2222222222222222,9
+Uttaranchal,Almora,0.0,1
+Uttaranchal,Garhwal,0.0,1
+WEST BENGAL,HOOGHLY,0.25,4
+WEST BENGAL,HOWRAH,0.0,4
+WEST BENGAL,hooghly,0.0,2
+WESTBENGAL,HOOGHLY,0.25,4
+West  Bengal,Hooghly,0.25,4
+West Bangal,Hooghly,0.25,4
+West Bangal,Howrah,0.0,4
+West Bangal,South 24 Parganas,0.0,1
+West Bengal,24 Paraganas North,0.0,2
+West Bengal,24 Paraganas South,0.0,1
+West Bengal,Alipurduar,0.2222222222222222,9
+West Bengal,Bally Jagachha,0.0,4
+West Bengal,Bankura,0.2222222222222222,9
+West Bengal,Barddhaman,0.1111111111111111,9
+West Bengal,Bardhaman,0.1111111111111111,9
+West Bengal,Birbhum,0.5555555555555556,9
+West Bengal,Burdwan,0.0,2
+West Bengal,Cooch Behar,0.1111111111111111,9
+West Bengal,Coochbehar,0.0,3
+West Bengal,Dakshin Dinajpur,0.3333333333333333,9
+West Bengal,Darjeeling,0.2222222222222222,9
+West Bengal,Darjiling,0.1111111111111111,9
+West Bengal,Dinajpur Dakshin,0.0,1
+West Bengal,Dinajpur Uttar,0.0,3
+West Bengal,Domjur,0.0,3
+West Bengal,East Midnapore,0.1111111111111111,9
+West Bengal,East Midnapur,0.0,4
+West Bengal,East midnapore,0.0,4
+West Bengal,HOOGHLY,0.5,2
+West Bengal,HOWRAH,0.25,4
+West Bengal,Haora,0.1111111111111111,9
+West Bengal,Hawrah,0.0,4
+West Bengal,Hooghiy,0.0,4
+West Bengal,Hooghly,0.4444444444444444,9
+West Bengal,Howrah,0.1111111111111111,9
+West Bengal,Hugli,0.25,4
+West Bengal,Jalpaiguri,0.2222222222222222,9
+West Bengal,Jhargram,0.1111111111111111,9
+West Bengal,KOLKATA,0.0,2
+West Bengal,Kalimpong,0.3333333333333333,9
+West Bengal,Koch Bihar,0.1111111111111111,9
+West Bengal,Kolkata,0.3333333333333333,9
+West Bengal,MALDA,0.25,4
+West Bengal,Malda,0.4444444444444444,9
+West Bengal,Maldah,0.1111111111111111,9
+West Bengal,Medinipur,0.25,4
+West Bengal,Medinipur West,0.0,2
+West Bengal,Murshidabad,0.2222222222222222,9
+West Bengal,NADIA,0.0,3
+West Bengal,Nadia,0.1111111111111111,9
+West Bengal,North 24 Parganas,0.4444444444444444,9
+West Bengal,North Dinajpur,0.14285714285714285,7
+West Bengal,North Twenty Four Parganas,0.1111111111111111,9
+West Bengal,Paschim Bardhaman,0.2222222222222222,9
+West Bengal,Paschim Medinipur,0.2222222222222222,9
+West Bengal,Purba Bardhaman,0.3333333333333333,9
+West Bengal,Purba Medinipur,0.2222222222222222,9
+West Bengal,Purulia,0.1111111111111111,9
+West Bengal,Puruliya,0.2222222222222222,9
+West Bengal,South 24 Pargana,0.0,3
+West Bengal,South 24 Parganas,0.2222222222222222,9
+West Bengal,South 24 pargana,0.0,1
+West Bengal,South 24 parganas,0.0,2
+West Bengal,South Dinajpur,0.1111111111111111,9
+West Bengal,South DumDum(M),0.0,3
+West Bengal,South Twenty Four Parganas,0.1111111111111111,9
+West Bengal,Uttar Dinajpur,0.1111111111111111,9
+West Bengal,West Medinipur,0.0,4
+West Bengal,West Midnapore,0.1111111111111111,9
+West Bengal,east midnapore,0.0,1
+West Bengal,hooghly,0.0,4
+West Bengal,nadia,0.25,4
+West bengal,Hooghly,0.0,1
+West bengal,South 24 Parganas,0.0,1
+West bengal,hooghly,0.5,4
+Westbengal,Hooghly,0.5,4
+Westbengal,Howrah,0.0,3
+andhra pradesh,chittoor,0.0,4
+andhra pradesh,rangareddi,0.0,3
+odisha,Gajapati,0.0,4
+west Bengal,South 24 Parganas,0.0,1

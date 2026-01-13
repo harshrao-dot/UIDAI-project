@@ -1,0 +1,55 @@
+{
+  "present_findings": [
+    {
+      "category": "Age-based Entry Delays",
+      "finding": "629 districts show ESS > 75th percentile, indicating delayed adult enrollment. Mean ESS = 0.024.",
+      "evidence": "Top 10 districts by ESS: 100000, Leparada, Mangan, Pakke Kessang, Khawzawl, Saitual, Namchi, Deeg, Kurung Kumey, Ri Bhoi"
+    },
+    {
+      "category": "Demography-Linked Biometric Stress",
+      "finding": "MSP-DPI correlation = 0.057. Moderate link between aging demographics and biometric maintenance burden.",
+      "evidence": "Districts with DPI > 0.6 have mean MSP = 8.968 vs national mean = 7.706"
+    },
+    {
+      "category": "Persistent vs Temporary Stress",
+      "finding": "78 districts show >50% persistence in top stress quartile, indicating structural problems, not temporary spikes.",
+      "evidence": "Mean persistence = 23.67%, max = 100.00%"
+    }
+  ],
+  "administrative_suggestions": [
+    {
+      "area": "Adult Enrolment Targeting",
+      "suggestion": "Prioritize 629 districts with ESS > 75th percentile. Deploy mobile enrollment units and awareness campaigns.",
+      "rationale": "High ESS indicates delayed identity acquisition, creating exclusion risk."
+    },
+    {
+      "area": "Early-life Aadhaar Integration",
+      "suggestion": "Integrate Aadhaar enrollment with birth registration in 0 low-YCR districts.",
+      "rationale": "Low YCR means delayed youth enrollment, increasing future ESS burden."
+    },
+    {
+      "area": "Biometric Refresh Strategies",
+      "suggestion": "Proactive biometric refresh campaigns in 745 high-MSP districts, especially for elderly populations.",
+      "rationale": "High MSP indicates authentication friction and potential failure risk."
+    },
+    {
+      "area": "Resource Prioritization",
+      "suggestion": "Allocate resources to top 20 persistent-stress districts (persistence > 66.67%). These require sustained intervention, not one-time campaigns.",
+      "rationale": "Persistence index identifies structural problems requiring long-term solutions."
+    }
+  ],
+  "future_risks": [
+    {
+      "risk": "Rising MSP in Aging Districts",
+      "description": "Districts with high DPI (elderly share) currently show MSP = 8.968. As population ages, biometric maintenance burden will escalate.",
+      "timeframe": "2-3 years",
+      "mitigation": "Proactive biometric refresh programs before failure rates spike."
+    },
+    {
+      "risk": "Future Enrolment Shocks",
+      "description": "0 districts with low YCR will face adult enrollment backlog as current youth cohort ages without Aadhaar.",
+      "timeframe": "3-5 years",
+      "mitigation": "Immediate youth enrollment drive to prevent future ESS spike."
+    }
+  ]
+}
