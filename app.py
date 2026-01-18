@@ -12,6 +12,55 @@ import pickle
 from pathlib import Path
 from india_map_helper import normalize_state_name, normalize_district_name
 
+# Theme State Initialization
+if "theme" not in st.session_state:
+    st.session_state.theme = "light"
+
+# Sidebar Toggle Button
+with st.sidebar:
+    if st.button("🌙 Toggle Dark / Light Mode"):
+        st.session_state.theme = (
+            "dark" if st.session_state.theme == "light" else "light"
+        )
+
+# Application Function
+def apply_theme(theme):
+    if theme == "dark":
+        st.markdown(
+            """
+            <style>
+            .stApp {
+                background-color: #0E1117;
+                color: #FAFAFA;
+            }
+            [data-testid="stSidebar"] {
+                background-color: #161B22;
+            }
+            h1, h2, h3, h4, h5, h6 {
+                color: #FAFAFA;
+            }
+            </style>
+            """,
+            unsafe_allow_html=True,
+        )
+    else:
+        st.markdown(
+            """
+            <style>
+            .stApp {
+                background-color: #FFFFFF;
+                color: #000000;
+            }
+            [data-testid="stSidebar"] {
+                background-color: #F0F2F6;
+            }
+            </style>
+            """,
+            unsafe_allow_html=True,
+        )
+apply_theme(st.session_state.theme)
+
+
 # Page config
 st.set_page_config(
     page_title="Aadhaar Identity Stress System",
