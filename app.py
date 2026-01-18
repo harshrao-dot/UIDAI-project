@@ -12,53 +12,110 @@ import pickle
 from pathlib import Path
 from india_map_helper import normalize_state_name, normalize_district_name
 
-# Theme State Initialization
-if "theme" not in st.session_state:
-    st.session_state.theme = "light"
 
-# Sidebar Toggle Button
-with st.sidebar:
-    if st.button("🌙 Toggle Dark / Light Mode"):
-        st.session_state.theme = (
-            "dark" if st.session_state.theme == "light" else "light"
-        )
 
-# Application Function
-def apply_theme(theme):
-    if theme == "dark":
-        st.markdown(
-            """
-            <style>
-            .stApp {
-                background-color: #0E1117;
-                color: #FAFAFA;
-            }
-            [data-testid="stSidebar"] {
-                background-color: #161B22;
-            }
-            h1, h2, h3, h4, h5, h6 {
-                color: #FAFAFA;
-            }
-            </style>
-            """,
-            unsafe_allow_html=True,
-        )
-    else:
-        st.markdown(
-            """
-            <style>
-            .stApp {
-                background-color: #FFFFFF;
-                color: #000000;
-            }
-            [data-testid="stSidebar"] {
-                background-color: #F0F2F6;
-            }
-            </style>
-            """,
-            unsafe_allow_html=True,
-        )
-apply_theme(st.session_state.theme)
+# if "theme" not in st.session_state:
+#     st.session_state.theme = "light"
+
+# with st.sidebar:
+#     if st.button("Toggle Theme"):
+#         st.session_state.theme = (
+#             "dark" if st.session_state.theme == "light" else "light"
+#         )
+
+# def apply_theme(theme):
+#     if theme == "dark":
+#         st.markdown(
+#             """
+#             <style>
+#             /* App background */
+#             .stApp {
+#                 background-color: #0e1117;
+#                 color: #fafafa;
+#             }
+
+#             /* Sidebar */
+#             section[data-testid="stSidebar"] {
+#                 background-color: #161b22;
+#             }
+
+#             /* Text */
+#             h1, h2, h3, h4, h5, h6, p, span, label, div {
+#                 color: #fafafa !important;
+#             }
+
+#             /* Buttons */
+#             button {
+#                 background-color: #21262d !important;
+#                 color: #fafafa !important;
+#                 border: 1px solid #30363d !important;
+#             }
+
+#             /* Inputs */
+#             input, textarea, select {
+#                 background-color: #0e1117 !important;
+#                 color: #fafafa !important;
+#                 border: 1px solid #30363d !important;
+#             }
+
+#             /* Tables */
+#             thead tr th {
+#                 background-color: #161b22 !important;
+#                 color: #fafafa !important;
+#             }
+
+#             tbody tr td {
+#                 background-color: #0e1117 !important;
+#                 color: #fafafa !important;
+#             }
+#             </style>
+#             """,
+#             unsafe_allow_html=True,
+#         )
+
+#     else:
+#         st.markdown(
+#             """
+#             <style>
+#             .stApp {
+#                 background-color: #ffffff;
+#                 color: #000000;
+#             }
+
+#             section[data-testid="stSidebar"] {
+#                 background-color: #f0f2f6;
+#             }
+
+#             h1, h2, h3, h4, h5, h6, p, span, label, div {
+#                 color: #000000 !important;
+#             }
+
+#             button {
+#                 background-color: #ffffff !important;
+#                 color: #000000 !important;
+#                 border: 1px solid #cccccc !important;
+#             }
+
+#             input, textarea, select {
+#                 background-color: #ffffff !important;
+#                 color: #000000 !important;
+#                 border: 1px solid #cccccc !important;
+#             }
+
+#             thead tr th {
+#                 background-color: #f0f2f6 !important;
+#                 color: #000000 !important;
+#             }
+
+#             tbody tr td {
+#                 background-color: #ffffff !important;
+#                 color: #000000 !important;
+#             }
+#             </style>
+#             """,
+#             unsafe_allow_html=True,
+#         )
+# apply_theme(st.session_state.theme)
 
 
 # Page config
